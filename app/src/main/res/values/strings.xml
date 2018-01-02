@@ -1,0 +1,14 @@
+<resources>
+    <string name="app">RedMartProductList</string>
+    <string name="network_error">Network Error. Please try again later !</string>
+    <string name="no_data_found_try_again">No Data found, please try again.</string>
+    <string name="success">Success</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+    <!--alert dialog-->
+    <string name="ok">OK</string>
+    <!--HomeActivity-->
+    <string name="home_activity_title">Products</string>
+    <string name="Rs">\u20B9</string>
+    <!--ProductDetailsActivity-->
+    <string name="product_activity_title">Product Detail</string>
+</resources>

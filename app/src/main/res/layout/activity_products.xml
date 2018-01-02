@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_home"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_pink"
+    android:orientation="vertical"
+    tools:context=".view.activities.ProductDetailsActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <com.redmart.bishwajeet.redmartproductlist.view.customControls.RedmartTextView
+                android:id="@+id/tv_product_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="12dp"
+                android:text="Product Name"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="20sp"
+                app:fontName="medium" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/rv_product_images"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:paddingBottom="5dp"
+                android:paddingTop="5dp"
+                android:scrollbars="horizontal"
+                app:theme="@style/AppTheme.RecyclerView" />
+
+            <com.redmart.bishwajeet.redmartproductlist.view.customControls.RedmartTextView
+                android:id="@+id/tv_product_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:padding="12dp"
+                android:text="Details...."
+                android:textColor="@android:color/holo_blue_dark"
+                android:textSize="17sp"
+                app:fontName="regular" />
+
+            <LinearLayout
+                android:id="@+id/ll_description"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                tools:context=".view.activities.ProductDetailsActivity">
+
+                <com.redmart.bishwajeet.redmartproductlist.view.customControls.RedmartTextView
+                    android:id="@+id/tv_description_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="12dp"
+                    android:text="Title"
+                    android:textColor="@color/cardview_dark_background"
+                    android:textSize="18sp"
+                    app:fontName="medium" />
+
+                <com.redmart.bishwajeet.redmartproductlist.view.customControls.RedmartTextView
+                    android:id="@+id/tv_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="12dp"
+                    android:paddingLeft="12dp"
+                    android:paddingRight="12dp"
+                    android:text="Details...."
+                    android:textColor="@color/cardview_dark_background"
+                    android:textSize="17sp"
+                    app:fontName="regular" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

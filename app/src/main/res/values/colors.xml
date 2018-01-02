@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF4081</color>
+    <color name="colorPrimaryDark">#F11985</color>
+    <color name="colorAccent">#3F51B5</color>
+    <color name="recyclerViewThemeColor">#FF4081</color>
+    <color name="light_pink">#fce4ec</color>
+</resources>
