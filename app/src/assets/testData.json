@@ -1,0 +1,355 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    },
+    {
+      "id": "3",
+      "title": "XYZ title",
+      "desc": "XYZ desc",
+      "img": {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      "images": [
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        },
+        {
+          "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+        }
+      ],
+      "pricing": {
+        "price": 12.45
+      },
+      "description_fields": {
+        "secondary": [
+          {
+            "name": "XYZ title",
+            "content": "XYZ desc"
+          }
+        ]
+      }
+    }
+  ],
+  "product": {
+    "id": "3",
+    "title": "XYZ title",
+    "desc": "XYZ desc",
+    "img": {
+      "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+    },
+    "images": [
+      {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      },
+      {
+        "name": "https://homepages.cae.wisc.edu/~ece533/images/monarch.png"
+      }
+    ],
+    "pricing": {
+      "price": 12.45
+    },
+    "description_fields": {
+      "secondary": [
+        {
+          "name": "XYZ title",
+          "content": "XYZ desc"
+        }
+      ]
+    }
+  }
+}

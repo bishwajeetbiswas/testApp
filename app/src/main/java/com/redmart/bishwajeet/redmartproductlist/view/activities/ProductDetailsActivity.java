@@ -103,7 +103,7 @@ public class ProductDetailsActivity extends RedmartBaseActivity {
         CommonMethods.showBottomProgressDialoge(mActivity, getResources().getString(R.string.please_wait));
         RedmartApplication mApp = (RedmartApplication) getApplication();
         mApp.getRedmartApiService().
-                getRedmartProductDetail(productId)
+                getRedmartProductDetail()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new RedmartSubscriber<RedmartResponse>(mActivity, true) {

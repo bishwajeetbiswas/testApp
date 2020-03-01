@@ -38,7 +38,7 @@ public class ProductImageAdapter extends RecyclerView.Adapter {
         ProductImageViewHolder rhvh = (ProductImageViewHolder) holder;
 
         Glide.with(mContext)
-                .load(REDMART_BASE_IMAGE_URL + mImages.get(position).mName)
+                .load(mImages.get(position).mName)
                 .placeholder(mContext.getResources().getDrawable(R.drawable.place_holder))
                 .error(mContext.getResources().getDrawable(R.drawable.place_holder))
                 .into(rhvh.ivProduct);

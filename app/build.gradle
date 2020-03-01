@@ -22,15 +22,15 @@ android {
         playStore {
             applicationId redmartApplicationId
             resValue "string", "app_name", "RedMart"
-            buildConfigField "String", "REDMART_BASE_URL", '"https://api.redmart.com/v1.6.0/catalog/"'
-            buildConfigField "String", "REDMART_BASE_IMAGE_URL", '"http://media.redmart.com/newmedia/200p"'
+            buildConfigField "String", "REDMART_BASE_URL", '"http://demo9235536.mockable.io/"'
+            buildConfigField "String", "REDMART_BASE_IMAGE_URL", '""'
         }
 
         dev {
             applicationId redmartApplicationId + ".dev"
             resValue "string", "app_name", "RedMart Dev"
-            buildConfigField "String", "REDMART_BASE_URL", '"https://api.redmart.com/v1.6.0/catalog/"'
-            buildConfigField "String", "REDMART_BASE_IMAGE_URL", '"http://media.redmart.com/newmedia/200p"'
+            buildConfigField "String", "REDMART_BASE_URL", '"http://demo9235536.mockable.io/"'
+            buildConfigField "String", "REDMART_BASE_IMAGE_URL", '""'
         }
 
     }

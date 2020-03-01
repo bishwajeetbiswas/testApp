@@ -116,7 +116,7 @@ public class HomeActivity extends RedmartBaseActivity {
         isLoading = true;
         CommonMethods.showBottomProgressDialoge(mActivity, getResources().getString(R.string.please_wait));
         mApp.getRedmartApiService()
-                .getRedmartProduct(page, page_size)
+                .getRedmartProduct()
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new RedmartSubscriber<RedmartResponse>(mActivity, true) {

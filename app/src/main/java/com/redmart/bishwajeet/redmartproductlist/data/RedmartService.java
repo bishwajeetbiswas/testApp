@@ -9,9 +9,9 @@ import retrofit2.http.Path;
 import retrofit2.http.Query;
 
 public interface RedmartService {
-    @GET("search")
-    Observable<RedmartResponse> getRedmartProduct(@Query("page") int page,@Query("pageSize") int pageSize);
+    @GET("chandan")
+    Observable<RedmartResponse> getRedmartProduct();
 
-    @GET("products/{product_id}")
-    Observable<RedmartResponse> getRedmartProductDetail(@Path("product_id") String productId);
+    @GET("chandan")
+    Observable<RedmartResponse> getRedmartProductDetail();
 }
